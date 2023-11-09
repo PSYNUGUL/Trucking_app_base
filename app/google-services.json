@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539144806746",
+    "project_id": "minilab6-ece454",
+    "storage_bucket": "minilab6-ece454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539144806746:android:3370855a3195bdc9ecd363",
+        "android_client_info": {
+          "package_name": "com.example.lab6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnOaGnqy_req_Vfs4SHkdoNzxBIgBMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
